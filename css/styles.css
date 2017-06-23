@@ -2,27 +2,15 @@
     display: none;
 }
 
-@media (min-width: 1200px) and (max-height: 1080px) {
+@media (min-width: 1920px) and (max-height: 1080px) {
     .col-sm-6.image-col {
-        top: -380px;
+        top: -410px;
     }
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 2560px) and (max-height: 1600px) {
     .col-sm-6.image-col {
-        top: -440px;
-    }
-}
-
-@media (min-width: 1801px) and (max-height: 1080px) {
-    .col-sm-6.image-col {
-        top: -450px;
-    }
-}
-
-@media (min-width: 1920px) {
-    .col-sm-6.image-col {
-        top: -400px;
+        top: -60px;
     }
 }
 
