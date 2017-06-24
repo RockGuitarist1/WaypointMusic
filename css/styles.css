@@ -529,6 +529,6 @@ header {
 
 @media screen and (min-width: 1920px) {
     .col-sm-6.image-col {
-        top: -420px;
+        margin-top: 60px;
     }
 }
