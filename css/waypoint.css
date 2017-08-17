@@ -362,3 +362,7 @@ header.masthead {
 .popup-gallery {
   background-color: #222222;
 }
+
+.book-btn:hover {
+  background-color: #34A7F8;
+}
