@@ -359,6 +359,10 @@ header.masthead {
   opacity: .75;
 }
 
+.social a + a {
+  margin-left: 25px;
+}
+
 .popup-gallery {
   background-color: #222222;
 }
