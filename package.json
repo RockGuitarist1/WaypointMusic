@@ -1,8 +1,8 @@
 {
-  "title": "Createive",
-  "name": "startbootstrap-creative",
-  "version": "4.0.0-alpha",
-  "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+  "title": "Waypoint Worship",
+  "name": "waypoint-worship",
+  "version": "1.0.3",
+  "description": "Official website for Waypoint Worship.",
   "keywords": [
     "css",
     "sass",
@@ -11,20 +11,15 @@
     "theme",
     "template"
   ],
-  "homepage": "http://startbootstrap.com/template-overviews/creative",
+  "homepage": "www.waypointmusic.com",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-    "email": "feedback@startbootstrap.com"
+    "email": "info@waypointmusic.com"
   },
   "license": "MIT",
-  "author": "Start Bootstrap",
+  "author": "Joshua Ballas",
   "contributors": [
-    "David Miller (http://davidmiller.io/)"
+    "Joshua Ballas (https://github.com/RockGuitarist1)"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
-  },
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
     "font-awesome": "4.7.0",
